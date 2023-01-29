@@ -1,0 +1,13 @@
+.float-container {
+    padding: 18px;
+    text-align: center;
+
+ font-family:  'Ubuntu', sans-serif;
+}
+
+.float-child {
+    width: 50%;
+    margin-left: 22%;
+
+    padding: 28px;
+}  
